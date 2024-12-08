@@ -1,0 +1,104 @@
+Columns present in all DataFrames: {'POz', 'F3', 'AF3', 'P6', 'F1', 'PO8', 'PO3', 'AF4', 'FC5', 'FC4', 'C3', 'CP1', 'CP4', 'C5', 'FC3', 'TP8', 'CPz', 'AFz', 'P2', 'C2', 'FT7', 'F6', 'FC6', 'PO4', 'CP2', 'P1', 'sub', 'Pz', 'CP5', 'P5', 'time', 'exp', 'P8', 'O2', 'C4', 'F4', 'Oz', 'P4', 'F2', 'CP3', 'P3'}
+Number of columns present in all DataFrames: 41
+ The final dataframe with 38 channels, time, sub, and exp column:
+        POz        F3       AF3  ...        F2       CP3        P3
+0 -0.990584  0.879229  0.541550  ...  0.429987  2.987116  1.617051
+1  1.825351  2.833838  3.886763  ...  1.957668  2.549126  3.010789
+2  0.326871  3.487565  4.445274  ...  1.750706  2.429301  2.520126
+3 -0.638569  3.934231  4.326167  ...  1.458868  2.736613  2.374272
+4 -1.011119  3.836341  3.650522  ...  1.186493  3.743580  3.062496
+
+[5 rows x 41 columns]
+9151114
+POz    float32
+F3     float32
+AF3    float32
+P6     float32
+F1     float32
+        ...   
+Oz     float32
+P4     float32
+F2     float32
+CP3    float32
+P3     float32
+Length: 39, dtype: object
+        POz        F3       AF3        P6        F1  ...        F2       CP3  \
+0 -0.990584  0.879229  0.541550  1.060418  0.738632  ...  0.429987  2.987116   
+1  1.825351  2.833838  3.886763  1.383581  2.004582  ...  1.957668  2.549126   
+2  0.326871  3.487565  4.445274  0.402268  2.421826  ...  1.750706  2.429301   
+3 -0.638569  3.934231  4.326167  0.347587  2.721659  ...  1.458868  2.736613   
+4 -1.011119  3.836341  3.650522  0.906570  2.676036  ...  1.186493  3.743580   
+
+         P3     sub  exp  
+0  1.617051  032328  EC   
+1  3.010789  032328  EC   
+2  2.520126  032328  EC   
+3  2.374272  032328  EC   
+4  3.062496  032328  EC   
+
+[5 rows x 41 columns]
+Number of samples for EO =  4539017
+Number of samples for EC =  4612097
+        PO3       PO8        P6
+0 -1.175448 -1.323297  1.060418
+1  3.195691  5.125967  1.383581
+2  2.431902  3.435612  0.402268
+3  1.642264  3.062507  0.347587
+4  1.359758  3.621288  0.906570
+Columns in X are below:
+Index(['PO3', 'PO8', 'P6'], dtype='object')
+0    EC 
+1    EC 
+2    EC 
+3    EC 
+4    EC 
+Name: exp, dtype: object
+model performance for logistic regression 
+
+              precision    recall  f1-score   support
+
+         EC        0.50      1.00      0.67   1383978
+         EO        0.00      0.00      0.00   1361357
+
+    accuracy                           0.50   2745335
+   macro avg       0.25      0.50      0.34   2745335
+weighted avg       0.25      0.50      0.34   2745335
+
+AUC for logistic regression from scikit is: 0.4932
+model performance for EBM is 
+
+              precision    recall  f1-score   support
+
+         EC        0.68      0.46      0.55   1383978
+         EO        0.59      0.78      0.67   1361357
+
+    accuracy                           0.62   2745335
+   macro avg       0.63      0.62      0.61   2745335
+weighted avg       0.63      0.62      0.61   2745335
+
+AUC for Explainable Boosting Method is: 0.6565
+model performance for Explainable LR is 
+
+              precision    recall  f1-score   support
+
+         EC        0.50      1.00      0.67   1383978
+         EO        0.00      0.00      0.00   1361357
+
+    accuracy                           0.50   2745335
+   macro avg       0.25      0.50      0.34   2745335
+weighted avg       0.25      0.50      0.34   2745335
+
+AUC for logistic regression explainable: 0.4932
+model performance for Explainable DT is 
+
+              precision    recall  f1-score   support
+
+         EC        0.75      0.25      0.37   1383978
+         EO        0.55      0.92      0.68   1361357
+
+    accuracy                           0.58   2745335
+   macro avg       0.65      0.58      0.53   2745335
+weighted avg       0.65      0.58      0.53   2745335
+
+AUC for decsion trees explainable: 0.5858
+Time taken to execute the above program with top 3 channels: 1136.827124595642
