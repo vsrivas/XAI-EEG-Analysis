@@ -1,6 +1,6 @@
 **Objective**
 
-To establish the usability of explainable AI (XAI) methods for Electroencephalogram (EEG) analysis
+To establish the usefulness of explainable AI (XAI) methods for Electroencephalogram (EEG) analysis
 <br>
 <br>
 
