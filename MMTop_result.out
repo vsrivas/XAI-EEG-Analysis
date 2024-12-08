@@ -1,0 +1,105 @@
+Creating raw.info structure...
+Columns present in all DataFrames: {'EEG T4', 'exp', 'EEG O2', 'sub', 'EEG Fp1', 'EEG T5', 'EEG F3', 'EEG A2-A1', 'time', 'EEG Fz', 'EEG Fp2', 'EEG P4', 'EEG C3', 'EEG F8', 'EEG F4', 'EEG C4', 'EEG Pz', 'EEG Cz', 'EEG F7', 'EEG P3', 'EEG T3', 'EEG O1', 'EEG T6'}
+Number of columns present in all DataFrames: 23
+ The final dataframe with 20 channels, time, sub, and exp column:
+     EEG T4 exp    EEG O2  ...    EEG T3    EEG O1    EEG T6
+0 -9.335621   1 -1.575608  ... -6.414519 -1.838676 -1.463331
+1 -9.496607   1 -1.558157  ... -6.393567 -1.727104 -1.314873
+2 -9.618567   1 -1.434060  ... -6.169639 -1.457303 -0.962472
+3 -9.698247   1 -1.230464  ... -5.716545 -1.075930 -0.397132
+4 -9.768171   1 -1.057892  ... -5.082738 -0.716871  0.322666
+
+[5 rows x 23 columns]
+4338000
+T4     float32
+O2     float32
+Fp1    float32
+T5     float32
+F3     float32
+        ...   
+F7     float32
+P3     float32
+T3     float32
+O1     float32
+T6     float32
+Length: 21, dtype: object
+         T4        O2       Fp1        T5        F3  ...        T3        O1  \
+0 -9.335621 -1.575608  0.152761 -5.301783 -1.898749  ... -6.414519 -1.838675   
+1 -9.496607 -1.558157 -0.037384 -5.085107 -2.341382  ... -6.393567 -1.727104   
+2 -9.618567 -1.434060 -0.188763 -4.562291 -2.861671  ... -6.169639 -1.457303   
+3 -9.698247 -1.230464 -0.279220 -3.712364 -3.409139  ... -5.716545 -1.075930   
+4 -9.768170 -1.057892 -0.321680 -2.610814 -3.946253  ... -5.082738 -0.716871   
+
+         T6             sub  exp  
+0 -1.463331  MENTAL-MATH/21    1  
+1 -1.314873  MENTAL-MATH/21    1  
+2 -0.962472  MENTAL-MATH/21    1  
+3 -0.397132  MENTAL-MATH/21    1  
+4  0.322666  MENTAL-MATH/21    1  
+
+[5 rows x 23 columns]
+Number of samples for 1 =  3222000
+Number of samples for 2 =  1116000
+        Fp1
+0  0.152761
+1 -0.037384
+2 -0.188763
+3 -0.279220
+4 -0.321680
+Columns in X are below:
+Index(['Fp1'], dtype='object')
+0    1
+1    1
+2    1
+3    1
+4    1
+Name: exp, dtype: object
+model performance for logistic regression 
+
+              precision    recall  f1-score   support
+
+           1       0.74      1.00      0.85    965944
+           2       0.00      0.00      0.00    335456
+
+    accuracy                           0.74   1301400
+   macro avg       0.37      0.50      0.43   1301400
+weighted avg       0.55      0.74      0.63   1301400
+
+AUC for logistic regression from scikit is: 0.498
+model performance for EBM is 
+
+              precision    recall  f1-score   support
+
+           1       0.74      1.00      0.85    965944
+           2       0.54      0.01      0.03    335456
+
+    accuracy                           0.74   1301400
+   macro avg       0.64      0.51      0.44   1301400
+weighted avg       0.69      0.74      0.64   1301400
+
+AUC for EBM is: 0.5524
+model performance for Explainable LR is 
+
+              precision    recall  f1-score   support
+
+           1       0.74      1.00      0.85    965944
+           2       0.00      0.00      0.00    335456
+
+    accuracy                           0.74   1301400
+   macro avg       0.37      0.50      0.43   1301400
+weighted avg       0.55      0.74      0.63   1301400
+
+AUC for logistic regression explainable: 0.4984
+model performance for Explainable DT is 
+
+              precision    recall  f1-score   support
+
+           1       0.74      1.00      0.85    965944
+           2       0.69      0.00      0.00    335456
+
+    accuracy                           0.74   1301400
+   macro avg       0.72      0.50      0.43   1301400
+weighted avg       0.73      0.74      0.63   1301400
+
+AUC for decsion trees explainable: 0.5324
+The time of execution of above program with top channel is : 272.3638916015625
