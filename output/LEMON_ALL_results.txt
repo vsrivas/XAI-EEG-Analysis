@@ -1,0 +1,253 @@
+032328 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032328/sub-032328_EC.fdt
+032328 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032328/sub-032328_EO.fdt
+032343 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032343/sub-032343_EO.fdt
+032343 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032343/sub-032343_EC.fdt
+032315 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032315/sub-032315_EC.fdt
+032315 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032315/sub-032315_EO.fdt
+032342 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032342/sub-032342_EC.fdt
+032342 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032342/sub-032342_EO.fdt
+032338 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032338/sub-032338_EO.fdt
+032338 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032338/sub-032338_EC.fdt
+032310 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032310/sub-032310_EC.fdt
+032310 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032310/sub-032310_EO.fdt
+032324 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032324/sub-032324_EC.fdt
+032324 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032324/sub-032324_EO.fdt
+032312 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032312/sub-032312_EO.fdt
+032312 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032312/sub-032312_EC.fdt
+032332 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032332/sub-032332_EC.fdt
+032332 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032332/sub-032332_EO.fdt
+032321 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032321/sub-032321_EO.fdt
+032321 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032321/sub-032321_EC.fdt
+032337 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032337/sub-032337_EC.fdt
+032337 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032337/sub-032337_EO.fdt
+032333 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032333/sub-032333_EC.fdt
+032333 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032333/sub-032333_EO.fdt
+032334 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032334/sub-032334_EC.fdt
+032334 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032334/sub-032334_EO.fdt
+032303 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032303/sub-032303_EC.fdt
+032303 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032303/sub-032303_EO.fdt
+032316 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032316/sub-032316_EO.fdt
+032316 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032316/sub-032316_EC.fdt
+032306 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032306/sub-032306_EC.fdt
+032306 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032306/sub-032306_EO.fdt
+032317 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032317/sub-032317_EO.fdt
+032317 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032317/sub-032317_EC.fdt
+032341 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032341/sub-032341_EC.fdt
+032341 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032341/sub-032341_EO.fdt
+032325 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032325/sub-032325_EO.fdt
+032325 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032325/sub-032325_EC.fdt
+032308 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032308/sub-032308_EC.fdt
+032308 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032308/sub-032308_EO.fdt
+032305 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032305/sub-032305_EC.fdt
+032305 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032305/sub-032305_EO.fdt
+032302 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032302/sub-032302_EO.fdt
+032302 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032302/sub-032302_EC.fdt
+032319 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032319/sub-032319_EO.fdt
+032319 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032319/sub-032319_EC.fdt
+032322 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032322/sub-032322_EO.fdt
+032322 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032322/sub-032322_EC.fdt
+032313 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032313/sub-032313_EC.fdt
+032313 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032313/sub-032313_EO.fdt
+032327 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032327/sub-032327_EC.fdt
+032327 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032327/sub-032327_EO.fdt
+032307 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032307/sub-032307_EC.fdt
+032307 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032307/sub-032307_EO.fdt
+032318 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032318/sub-032318_EO.fdt
+032318 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032318/sub-032318_EC.fdt
+032329 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032329/sub-032329_EO.fdt
+032329 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032329/sub-032329_EC.fdt
+032336 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032336/sub-032336_EO.fdt
+032336 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032336/sub-032336_EC.fdt
+032340 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032340/sub-032340_EO.fdt
+032340 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032340/sub-032340_EC.fdt
+032301 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032301/sub-032301_EO.fdt
+032301 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032301/sub-032301_EC.fdt
+032326 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032326/sub-032326_EO.fdt
+032326 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032326/sub-032326_EC.fdt
+032344 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032344/sub-032344_EO.fdt
+032344 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032344/sub-032344_EC.fdt
+032339 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032339/sub-032339_EO.fdt
+032339 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032339/sub-032339_EC.fdt
+032314 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032314/sub-032314_EC.fdt
+032314 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032314/sub-032314_EO.fdt
+032330 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032330/sub-032330_EO.fdt
+032330 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032330/sub-032330_EC.fdt
+032311 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032311/sub-032311_EC.fdt
+032311 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032311/sub-032311_EO.fdt
+032331 EC 
+Reading /work/vandana/Research/XAI/LEMON/sub-032331/sub-032331_EC.fdt
+032331 EO 
+Reading /work/vandana/Research/XAI/LEMON/sub-032331/sub-032331_EO.fdt
+time
+F3
+F4
+FC5
+FC6
+C3
+C4
+CP5
+CP1
+CP2
+AFz
+P3
+Pz
+P4
+P8
+Oz
+O2
+AF3
+AF4
+F1
+F2
+F6
+FT7
+FC3
+FC4
+C5
+C2
+CP3
+CPz
+CP4
+TP8
+P5
+P1
+P2
+P6
+POz
+PO4
+PO8
+sub
+exp
+Index(['time', 'F3', 'F4', 'FC5', 'FC6', 'C3', 'C4', 'CP5', 'CP1', 'CP2',
+       'AFz', 'P3', 'Pz', 'P4', 'P8', 'Oz', 'O2', 'AF3', 'AF4', 'F1', 'F2',
+       'F6', 'FT7', 'FC3', 'FC4', 'C5', 'C2', 'CP3', 'CPz', 'CP4', 'TP8', 'P5',
+       'P1', 'P2', 'P6', 'POz', 'PO4', 'PO8', 'sub', 'exp'],
+      dtype='object')
+Non null columns total =  40
+Number of samples for EO =  4539017
+Number of samples for EC =  4612097
+model performance for logistic regression 
+
+              precision    recall  f1-score   support
+
+         EC        0.50      1.00      0.67   1383978
+         EO        0.07      0.00      0.00   1361357
+
+    accuracy                           0.50   2745335
+   macro avg       0.28      0.50      0.34   2745335
+weighted avg       0.29      0.50      0.34   2745335
+
+AUC for logistic regression from scikit is: 0.497
+model performance for EBM is 
+
+              precision    recall  f1-score   support
+
+         EC        0.70      0.51      0.59   1383978
+         EO        0.61      0.78      0.68   1361357
+
+    accuracy                           0.64   2745335
+   macro avg       0.65      0.64      0.63   2745335
+weighted avg       0.65      0.64      0.63   2745335
+
+AUC for EBM is: 0.695
+model performance for Explainable LR is 
+
+              precision    recall  f1-score   support
+
+         EC        0.50      1.00      0.67   1383978
+         EO        0.07      0.00      0.00   1361357
+
+    accuracy                           0.50   2745335
+   macro avg       0.28      0.50      0.34   2745335
+weighted avg       0.29      0.50      0.34   2745335
+
+AUC for logistic regression explainable: 0.497
+model performance for Explainable DT is 
+
+              precision    recall  f1-score   support
+
+         EC        0.75      0.24      0.37   1383978
+         EO        0.54      0.92      0.68   1361357
+
+    accuracy                           0.58   2745335
+   macro avg       0.65      0.58      0.52   2745335
+weighted avg       0.65      0.58      0.52   2745335
+
+AUC for decsion trees explainable: 0.583
+END OF THE PROGRAM..........
