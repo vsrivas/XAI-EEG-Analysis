@@ -4,14 +4,7 @@
 # ### This version is the pipeline to do the following analysis:
 # - Use the following methods to create classifier for LEMON data: scikit Logistic Regression, EBM, EDT (explainable decision tree), ELR (explainable Logistic Regression)
 # - Find the F1 score, AUC and other metrics for the methods.
-# - Use "intersecction" method to find common channels
-# - PART 1: Consider ALL common channels
-# - PART 2: Remove TOP channel (PO3)
-# - PART 3: Remove TOP 3 channels (PO3, PO8, P6)
-# - PART 4: Remove TOP 5 channels
-# - PART 5: Create model with ONLY top channel (PO3)
-# - PART 6: Create model with ONLY top 2 channels (PO3, PO8)
-# - PART 7: Create model with ONLY top 3 channels (PO3, PO8, P6)
+# - Use "intersection" method to find common channels
 
 # In[80]:
 
